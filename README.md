@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/brokenheartz/DirLook.git
 cd DirLook/v2
-sudo pip install colorama requests
+sudo pip3 install colorama requests
 chmod +x main.py
 ./main.py
 ```
